@@ -1,5 +1,5 @@
 # Open Source
-It's better when it's shared
+Not only "Open" "Source"
 
 ---
 
@@ -17,8 +17,9 @@ It's better when it's shared
 
 +++
 
-## 超量管理
-## 
+## 超量規模
+## 市場導向
+## 平行決策
 
 ---
 
@@ -27,6 +28,8 @@ It's better when it's shared
 +++
 
 ## 寧靜科技
+## 共識導向
+## 互補共生
 
 ---
 
@@ -34,6 +37,7 @@ It's better when it's shared
 
 +++
 
+## 著作權
 ## 商標權
 
 ---
