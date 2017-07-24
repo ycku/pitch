@@ -43,4 +43,4 @@ Not only "Open" "Source"
 ---
 
 # Open Source
-Open the world
+Open a better world
