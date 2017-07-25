@@ -1,10 +1,11 @@
 # Open Source
-Not only "Open" "Source"
+## Not only "Open" "Source"
 
 ---
 
 # 個人
-## 你的努力，全世界都會看到！
+## 你的努力
+## 全世界都會看到！
 
 +++
 
@@ -15,7 +16,8 @@ Not only "Open" "Source"
 ---
 
 # 組織
-## 把餅做大，不需要等待超級英雄。
+## 把餅做大
+## 不需要等待超級英雄。
 
 +++
 
@@ -26,7 +28,8 @@ Not only "Open" "Source"
 ---
 
 # 技術
-## 完美的世界觀不完美，發現更多的可能性。
+## 完美的世界觀不完美
+## 發現更多的可能性。
 
 +++
 
@@ -37,7 +40,8 @@ Not only "Open" "Source"
 ---
 
 # 法律
-## 保障更多，阻礙更少
+## 保障更多
+## 阻礙更少
 
 +++
 
@@ -58,4 +62,4 @@ Not only "Open" "Source"
 ---
 
 # Open Source
-Open a better world
+## Open a better world
