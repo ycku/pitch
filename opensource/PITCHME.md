@@ -59,9 +59,7 @@
 ## 公共政策網路參與平台
 ## 公民投票法
 
-+++
-
-[g0v](http://g0v.tw/imgs/g0v-about.png =250x)
++++?image=http://g0v.tw/imgs/g0v-about.png&size=auto 90%
 
 ---
 
