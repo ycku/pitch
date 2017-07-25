@@ -7,9 +7,9 @@
 
 +++
 
-## The Linux kernel
-## Apache Software Foundation
-## OpenStack
+- The Linux kernel
+- Apache Software Foundation
+- OpenStack
 
 ---
 
@@ -19,10 +19,9 @@
 
 +++
 
-## 我的履歷 
-### github profile
-## 眾生平等
-## 做你自己
+- 我的履歷 | github profile
+- 眾生平等
+- 做你自己
 
 ---
 
@@ -32,9 +31,9 @@
 
 +++
 
-## 超量規模
-## 市場導向
-## 平行決策
+- 超量規模
+- 市場導向
+- 平行決策
 
 ---
 
@@ -44,9 +43,9 @@
 
 +++
 
-## 寧靜科技
-## 共識導向
-## 互補共生
+- 寧靜科技
+- 共識導向
+- 互補共生
 
 ---
 
@@ -56,9 +55,9 @@
 
 +++
 
-## 著作權　Ｘ
-## 專利權　Ｘ
-## 商標權　Ｏ
+- 著作權　Ｘ
+- 專利權　Ｘ
+- 商標權　Ｏ
 
 ---
 
@@ -67,10 +66,9 @@
 
 +++
 
-## 零時政府 g0v.tw
-## 公共政策網路參與平台
-### http://join.gov.tw/
-## 公民投票法
+- 零時政府 g0v.tw | http://g0v.tw
+- 公共政策網路參與平台 | http://join.gov.tw/
+- 公民投票法
 
 +++?image=http://g0v.tw/imgs/g0v-about.png&size=auto 90%
 
