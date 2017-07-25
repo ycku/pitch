@@ -5,8 +5,6 @@
 
 # Case Study
 
-+++
-
 - The Linux kernel
 - Apache Software Foundation
 - OpenStack
