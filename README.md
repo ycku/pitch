@@ -1,2 +1,2 @@
 # Open Source
-https://gitpitch.com/ycku/pitch/opensource
+https://gitpitch.com/ycku/pitches?p=opensource
