@@ -56,14 +56,13 @@
 +++
 
 ## 零時政府 g0v.tw
-## 公共政策網路參與平台 ( http://join.gov.tw/ )
+## 公共政策網路參與平台
 ## 公民投票法
 
 +++
 
-# 零時政府 g0v.tw
-![零時政府 g0v.tw](http://g0v.tw/imgs/g0v-about.png)
-# http://g0v.tw
+## 零時政府 ( http://g0v.tw )
+![零時政府 g0v.tw](http://g0v.tw/imgs/g0v-about.png&size=auto 80%)
 
 ---
 
