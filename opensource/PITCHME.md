@@ -5,6 +5,9 @@
 
 # Case Study
 
++++
+
+- [開源政府軟件，保加利亞為世界做出榜樣](https://theinitium.com/article/20160707-dailynews-Bulgaria-open-source-software/)
 - The Linux kernel
 - Apache Software Foundation
 - OpenStack
