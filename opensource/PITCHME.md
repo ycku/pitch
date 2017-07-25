@@ -61,7 +61,7 @@
 
 +++
 
-[g0v](http://g0v.tw/imgs/g0v-about.png){:height="80%"}
+[g0v](http://g0v.tw/imgs/g0v-about.png =250x)
 
 ---
 
