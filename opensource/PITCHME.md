@@ -3,13 +3,24 @@
 
 ---
 
+# Case Study
+
++++
+
+## The Linux kernel
+## Apache Software Foundation
+## OpenStack
+
+---
+
 # 個人
 ## 你的努力
 ## 全世界都會看到！
 
 +++
 
-## 我的履歷
+## 我的履歷 
+### github profile
 ## 眾生平等
 ## 做你自己
 
