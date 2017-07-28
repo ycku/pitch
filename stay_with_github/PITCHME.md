@@ -23,7 +23,7 @@
 
 +++
 
-## [GitPitch](https://gitpitch.com/)
+# [GitPitch](https://gitpitch.com/)
 * 用 Markdown 輕鬆做簡報！
 * 在 GitHub 裡編輯完就直接發佈
 * 手機電腦皆可看
@@ -36,7 +36,7 @@
 
 +++
 
-## [GitHub Pages](https://pages.github.com/)
+# [GitHub Pages](https://pages.github.com/)
 * 用 Markdown 輕鬆做網站！
 * 在 GitHub 裡編輯完就直接發佈
 * 手機電腦皆可看
@@ -51,10 +51,10 @@
 
 +++
 
-## [GitBook](https://www.gitbook.com)
-* 又是 Markdown，不過有 WYSIWYG 介面可以用啦。
-* 編輯內容與 GitHub 同步，善用 branch 協作不打架。
-* 一個線上網站，三種格式下載。
+# [GitBook](https://www.gitbook.com)
+* 又是 Markdown，不過有 WYSIWYG 介面可以用啦
+* 編輯內容與 GitHub 同步，善用 branch 協作不打架
+* 一個線上網站，三種格式下載。好像滿賺的，但我沒下載過
 ### 例：[閒閒沒事來翻譯](https://pgsql-tw.gitbooks.io/postgresql-10/)
 
 ---
@@ -64,7 +64,7 @@
 
 +++
 
-## [Gitter](https://gitter.im/)
+# [Gitter](https://gitter.im/)
 * 權限可和 GitHub 同步
 * 掛上多種服務的 WebHook
 * 其實我也還不太會用
@@ -75,6 +75,12 @@
 # 來畫晝吧！
 # ↓
 
++++
+
+# [draw.io](https://www.draw.io)
+* 終於來了個不是 g 開頭的了
+### 還沒用過不能推嗎？
+
 ---
 
 # 還想幹嘛？
@@ -82,6 +88,6 @@
 
 +++
 
-## 應該還有沒唬爛到的吧～
-## 但我不知道～
+## 大概還有別的吧～
+## 不過我累了～
 ## 掰～
