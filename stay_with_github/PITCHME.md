@@ -23,17 +23,26 @@
 
 +++
 
-# [GitPitch](https://gitpitch.com/)
-## 用 Markdown 輕鬆做簡報！
+## [GitPitch](https://gitpitch.com/)
+* 用 Markdown 輕鬆做簡報！
 * 在 GitHub 裡編輯完就直接發佈
 * 手機電腦皆可看
-* 嵌入到任何地方
-## 例：像這份廢到笑不出來的簡報
+### 例：像這份廢到笑不出來的簡報
 
 ---
 
 # 來架個網站吧！
 # ↓
+
++++
+
+## [GitHub Pages](https://pages.github.com/)
+* 用 Markdown 輕鬆做簡報！
+* 在 GitHub 裡編輯完就直接發佈
+* 手機電腦皆可看
+### 不用寫程式也不用架站還要要求什麼
+### 想寫程式也可以試試 [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+### [這是一篇測試文](https://pgsql-tw.github.io/blog/)
 
 ---
 
