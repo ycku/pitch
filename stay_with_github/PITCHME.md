@@ -55,7 +55,7 @@
 * 又是 Markdown，不過有 WYSIWYG 介面可以用啦
 * 編輯內容與 GitHub 同步，善用 branch 協作不打架
 * 一個線上網站，三種格式下載。好像滿賺的，但我沒下載過
-### 例：[閒閒沒事來翻譯](https://pgsql-tw.gitbooks.io/postgresql-10/)
+### 例：[閒閒沒事來翻譯](https://www.gitbook.com/book/pgsql-tw/postgresql-10/)
 
 ---
 
@@ -67,7 +67,7 @@
 # [Gitter](https://gitter.im/)
 * 權限可和 GitHub 同步
 * 掛上多種服務的 WebHook
-* 其實我也還不太會用
+* 也是有人直接在 issues 裡聊的啦
 ### 例：[有看過沒有人的聊天室嗎？沒有的話現在讓你看看](https://gitter.im/pgsql-tw/Lobby)
 
 ---
