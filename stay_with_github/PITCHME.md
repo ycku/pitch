@@ -37,22 +37,38 @@
 +++
 
 ## [GitHub Pages](https://pages.github.com/)
-* 用 Markdown 輕鬆做簡報！
+* 用 Markdown 輕鬆做網站！
 * 在 GitHub 裡編輯完就直接發佈
 * 手機電腦皆可看
 ### 不用寫程式也不用架站還要要求什麼
 ### 想寫程式也可以試試 [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
-### [這是一篇測試文](https://pgsql-tw.github.io/blog/)
+### 例：[這是一篇測試文](https://pgsql-tw.github.io/blog/)
 
 ---
 
 # 來寫書吧！
 # ↓
 
++++
+
+## [GitBook](https://www.gitbook.com)
+* 又是 Markdown，不過有 WYSIWYG 介面可以用啦。
+* 編輯內容與 GitHub 同步，善用 branch 協作不打架。
+* 一個線上網站，三種格式下載。
+### 例：[閒閒沒事來翻譯](https://pgsql-tw.gitbooks.io/postgresql-10/)
+
 ---
 
-# 來聯個天吧！
+# 來聊個天吧！
 # ↓
+
++++
+
+## [Gitter](https://gitter.im/)
+* 權限可和 GitHub 同步
+* 掛上多種服務的 WebHook
+* 其實我也還不太會用
+### 例：[有看過沒有人的聊天室嗎？沒有的話現在讓你看看](https://gitter.im/pgsql-tw/Lobby)
 
 ---
 
