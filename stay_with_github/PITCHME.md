@@ -42,7 +42,7 @@
 * 手機電腦皆可看
 ### 不用寫程式也不用架站還要要求什麼
 ### 想寫程式也可以試試 [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
-### 例：[這是一篇測試文](https://pgsql-tw.github.io/blog/)
+### 例：[postgres的小島故事](https://pgsql-tw.github.io/island/)
 
 ---
 
