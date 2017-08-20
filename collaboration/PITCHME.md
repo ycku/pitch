@@ -59,4 +59,4 @@
 ---
 
 ### 我們是小島
-#### One for All, All for one
+#### One for All, All for One
