@@ -13,7 +13,7 @@
 ### 分散式成果再生系統
 ### ↓
 
-+++?image=https://raw.githubusercontent.com/ycku/pitches/master/collaboration/distributed_results_regeneration_system.svg
++++?image=https://rawgit.com/ycku/pitches/master/collaboration/distributed_results_regeneration_system.svg
 
 ---
 
