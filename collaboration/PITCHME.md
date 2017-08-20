@@ -1,5 +1,5 @@
 # 開源協作課程
-### 分散式成果再生系統
+### 我們是小島
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 分散式成果再生系統
+### 我們是小島
 ### ↓
 
 +++?image=https://ycku.github.io/pitches/collaboration/distributed_results_regeneration_system.svg
