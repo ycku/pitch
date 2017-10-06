@@ -1,4 +1,3 @@
-### [About Me](https://ycku.csie.org)
 古永忠(Yung-Chung Ku) - Nobody of Taiwan PostgreSQL User Group 
 
 ### [Open Source](https://gitpitch.com/ycku/pitches?p=opensource)
