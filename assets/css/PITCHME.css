@@ -5,6 +5,6 @@
     font-family : 'cwTeXYen', sans-serif;
 }
 
-body, .reveal {
+body, .reveal, div.slides {
     font-family: 'Noto Sans TC', sans-serif;
 }
