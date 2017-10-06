@@ -1,4 +1,4 @@
 theme-override : assets/css/PITCHME.css
-footnote: "<a href='http://ycku.csie.org/pitches/'><img src='https://img.shields.io/badge/Pitch%20My%20Passion-YC.KU-orange.svg'/></a>"
+footnote: "Open Source - 沒有人是局外人"
 logo: https://img.shields.io/badge/Pitch%20My%20Passion-YC.KU-orange.svg
 slide-number: true
