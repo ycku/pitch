@@ -25,10 +25,16 @@
 +++
 
 ### [開源政府軟件，保加利亞為世界做出榜樣](https://theinitium.com/article/20160707-dailynews-Bulgaria-open-source-software/)
+1. 開源以政府為名義開發的軟體。
+2. 由稅金開發的軟體，納稅人有權檢查一切。
+3. 開源促進系統安全。
 
 +++
 
 ### The Linux kernel
+1. "Given enough eyeballs, all bugs are shallow" - Linus's Law
+2. 最大的貢獻者是「Nobody」。
+
 +++
 ### Apache Software Foundation
 +++
