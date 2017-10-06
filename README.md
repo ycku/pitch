@@ -1,3 +1,9 @@
+> "Nothing is as important as passion. No matter what you want to do with your life, be passionate." - Jon Bon Jovi
+
+### [About Me](https://ycku.csie.org)
+- 古永忠 (Yung-Chung Ku)
+- 斜槓青年: 沒有多重專長，只擁有多樣的熱情。
+
 ![Nobody](https://img.shields.io/badge/Nobody-台灣PostgreSQL使用者社群-blue.svg)
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-國立臺灣大學-blue.svg)
 ![資策會工程師](https://img.shields.io/badge/Engineer-III-blue.svg)
@@ -7,12 +13,6 @@
 ![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-Scuba-yellow.svg)
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
 ![NBA2K](https://img.shields.io/badge/Point%20Guard-NBA2K-red.svg)
-
-### [About Me](https://ycku.csie.org)
-- 古永忠 (Yung-Chung Ku)
-- 斜槓青年: 沒有多重專長，只擁有多樣的熱情。
-
-> "Nothing is as important as passion. No matter what you want to do with your life, be passionate." - Jon Bon Jovi
 
 ### [Open Source](https://gitpitch.com/ycku/pitches?p=opensource)
 「沒有人是局外人」是這個簡報的副標，推廣開源協作理念，不只是軟體研發，也是公民社會的實現。
