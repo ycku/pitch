@@ -4,12 +4,27 @@
 +++
 
 ## Outline
-- 沒有人是局外人
 - Case Study
+- 沒有人是局外人
 - Why Open Source
 - 公民社會
 
 > 開源是**最大利益化**的具體運作方法
+
+---
+## Case Study
+
++++
+
+### [開源政府軟件，保加利亞為世界做出榜樣](https://theinitium.com/article/20160707-dailynews-Bulgaria-open-source-software/)
+
++++
+
+### The Linux kernel
++++
+### Apache Software Foundation
++++
+### OpenStack
 
 ---
 
@@ -20,16 +35,6 @@
 ### 誰才是局外人？
 - 回家買晚餐，路人強迫買滷肉飯
 - 老闆指示要全面導入版本管理工具，但是自己不用
-
----
-# Case Study
-
-+++
-
-- [開源政府軟件，保加利亞為世界做出榜樣](https://theinitium.com/article/20160707-dailynews-Bulgaria-open-source-software/)
-- The Linux kernel
-- Apache Software Foundation
-- OpenStack
 
 ---
 
