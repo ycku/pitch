@@ -1,5 +1,13 @@
-# Open Source
-## 沒有人是局外人
+## Open Source
+### 沒有人是局外人
+
++++
+
+## Outline
+- 沒有人是局外人
+- Case Study
+- Why Open Source
+- 公民社會
 
 ---
 
