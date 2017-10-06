@@ -1,0 +1,6 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
+.reveal .slides {
+    font-family : 'cwTeXYen', sans-serif;
+}
