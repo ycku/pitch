@@ -1,4 +1,4 @@
-古永忠 (Yung-Chung Ku) - **Nobody** of Taiwan PostgreSQL User Group 
+[古永忠 (Yung-Chung Ku)](https://ycku.csie.org) - **Nobody** of Taiwan PostgreSQL User Group 
 
 ### [Open Source](https://gitpitch.com/ycku/pitches?p=opensource)
 「沒有人是局外人」是這個簡報的副標，推廣開源協作理念，不只是軟體研發，也是公民社會的實現。
