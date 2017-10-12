@@ -1,4 +1,4 @@
 theme-override : assets/css/PITCHME.css
-footnote: "<a href='http://ycku.csie.org'>古永忠 (Yung-Chung Ku)</a>"
+footnote: "<a href='http://ycku.csie.org'>YC.KU</a>"
 logo: https://img.shields.io/badge/Pitch%20My%20Passion-YC.KU-orange.svg
 slide-number: true
