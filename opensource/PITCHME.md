@@ -1,6 +1,6 @@
 ## Open Source
 ### 沒有人是局外人
-##### (↓ Outline)(→ Start)
+##### ([我要發問](https://github.com/ycku/pitches/issues))
 
 +++
 
@@ -19,7 +19,7 @@
 4. 開源不只適用於**軟體研發**
 
 ---
-## Case Study
+## 案例說明
 
 +++
 
@@ -36,6 +36,11 @@
 
 +++
 ### Apache Software Foundation
+1. "A Patchy" Server?
+2. Contributor-Committer-Member
+3. "If it didn't happen on-list, it didn't happen."
+4. Project Oversight
+5. Meritocracy in Action
 +++
 ### OpenStack
 
