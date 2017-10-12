@@ -1,13 +1,13 @@
 ## Open Source
 ### 沒有人是局外人
-##### (↓ Outline → Start)
+##### (↓ Outline)(→ Start)
 
 +++
 
 ## Outline
-- Case Study
+- 案例說明
 - 沒有人是局外人
-- Why Open Source
+- 為何開源
 - 公民社會
 
 +++
@@ -15,9 +15,8 @@
 ### Note
 1. 開源**沒有排他性**
 2. 開源是**最大利益化**的具體運作方法
-3. 開源是為了實踐**自由**
-4. 開源是一種**商業模式**
-5. 開源不只適用於**軟體研發**
+3. 開源是一種**商業模式**
+4. 開源不只適用於**軟體研發**
 
 ---
 ## Case Study
@@ -105,7 +104,6 @@
 
 - 零時政府 g0v.tw | http://g0v.tw
 - 公共政策網路參與平台 | http://join.gov.tw/
-- 公民投票法
 
 +++?image=http://g0v.tw/imgs/g0v-about.png&size=auto 90%
 
