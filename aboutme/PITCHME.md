@@ -10,6 +10,3 @@
    - [Man page of Me](http://ycku.csie.org)
    - [Pitch My Passion](http://ycku.csie.org/pitches)
    - [Github profile](https://github.com/ycku)
-
-> “Nothing is as important as passion. No matter what you want to do with your life, be passionate.” - Jon Bon Jovi
-
