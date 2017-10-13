@@ -6,7 +6,7 @@
 
 ---
 
-### 25,000,000 public repositories in Github (2017)
+### 25,300,000 active repos in Github (2017)
 
 ---
 
@@ -18,7 +18,7 @@
 
 +++
 
-### 不謀而合："[Google 簡立峰：AI 時代......](https://www.inside.com.tw/2017/09/27/ai-industry)" (摘要開源部份內容)
+### "[Google 簡立峰：AI 時代......](https://www.inside.com.tw/2017/09/27/ai-industry)" (摘要開源部份內容)
 
 +++
 
