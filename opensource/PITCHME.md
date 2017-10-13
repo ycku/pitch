@@ -1,16 +1,10 @@
-## Open Source
-### 沒有人是局外人
-##### ([我要發問](https://github.com/ycku/pitches/issues))
+## Open Source - 沒有人是局外人
+- (↓ About me) (→ Start)
+##### ([歡迎預先提問](https://app2.sli.do/event/cdoxqbn8))
 
-+++
++++?include=aboutme/PITCHME.md
 
-## Outline
-- 案例說明
-- 沒有人是局外人
-- 為何開源
-- 公民社會
-
-+++
+---
 
 ### Note
 1. 開源**沒有排他性**
