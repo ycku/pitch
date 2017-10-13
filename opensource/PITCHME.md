@@ -92,7 +92,11 @@
 4. Project Oversight
 5. Meritocracy in Action
 +++
-### OpenStack
+### OpenStack (Pike)
+1. 2,400↑ contributors (210 companies)
+2. 2,000↑ reviewers (176 companies)
+3. 42% commit from "Nobody", Red Hat:23%, VMware:2.5%
+4. Top reviewer: 2,888 reviews, 409 commits, 671,762 LOCs
 
 ---
 
