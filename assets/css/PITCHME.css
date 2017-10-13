@@ -8,3 +8,8 @@
 body, .reveal, div.slides {
     font-family: 'Noto Sans TC', sans-serif;
 }
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
