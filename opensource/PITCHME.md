@@ -6,8 +6,7 @@
 
 ---
 
-### 25,000,000 public repositories in Github
-#### (2017)
+### 25,000,000 public repositories in Github (2017)
 
 ---
 
