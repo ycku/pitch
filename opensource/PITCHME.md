@@ -1,6 +1,6 @@
-## Open Source - 沒有人是局外人
-### (↓ About me) (→ Start)
-### [歡迎預先提問](https://app2.sli.do/event/cdoxqbn8)
+### Open Source - 沒有人是局外人
+#### (↓ About me) (→ Start)
+#### [點此預先提問](https://app2.sli.do/event/cdoxqbn8)
 
 +++?include=aboutme/PITCHME.md
 
