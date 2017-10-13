@@ -1,5 +1,5 @@
-## 古永忠 (Yung-Chung Ku)
-### 斜槓青年: 沒有多重專長，只擁有多樣的熱情。
+#### 古永忠 (Yung-Chung Ku)
+##### 斜槓青年: 沒有多重專長，只擁有多樣的熱情。
 
 > “Nothing is as important as passion. No matter what you want to do with your life, be passionate.” - Jon Bon Jovi
 
