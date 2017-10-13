@@ -10,5 +10,9 @@
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
 ![NBA2K](https://img.shields.io/badge/Point%20Guard-NBA2K-red.svg)
 
+#### [Man page of Me](http://ycku.csie.org)
+#### [Pitch My Passion](http://ycku.csie.org/pitches)
+#### [Github profile](https://github.com/ycku)
+
 > “Nothing is as important as passion. No matter what you want to do with your life, be passionate.” - Jon Bon Jovi
 
