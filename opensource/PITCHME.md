@@ -2,7 +2,10 @@
 #### (→ Start)
 #### [點此預先提問](https://app2.sli.do/event/cdoxqbn8)
 
-+++?include=aboutme/PITCHME.md
++++
+
+### [古永忠 (Yung-Chung Ku)](http://ycku.csie.org)
+→ [PostgreSQL台灣使用者社群](http://pgsql-tw.github.io)創始人
 
 ---
 
@@ -199,5 +202,10 @@
 
 ---
 
-# Open Source
-## 坐而言不如起而行
+## Open Source
+### 坐而言不如起而行
+
+---
+
+## Thanks
+### [給我issue](https://github.com/ycku/pitches/issues)
