@@ -118,9 +118,7 @@
 3. 42% commit from "Nobody", Red Hat:23%, VMware:2.5%
 4. Top reviewer: 2,888 reviews(1.96%), 409 commits, 671,762 LOCs
 
-+++
-
-### Open source commercial flow
++++?image=assets/open_source_commercial_flow.png
 
 ---
 
