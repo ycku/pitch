@@ -4,8 +4,8 @@
 
 +++
 
-### [古永忠 (Yung-Chung Ku)](http://ycku.csie.org)
-![pgsql-tw](https://rawgit.com/pgsql-tw/promotional-materials/master/TWPUG-LOGO/twpug-log-64x64.png) [PostgreSQL台灣使用者社群](http://pgsql-tw.github.io)創始人
+### [古永忠 (Yung-Chung Ku)](http://github.com/ycku)
+→ [PostgreSQL台灣使用者社群](http://pgsql-tw.github.io)創始人 ![pgsql-tw](https://rawgit.com/pgsql-tw/promotional-materials/master/TWPUG-LOGO/twpug-log-64x64.png)
 
 ---
 
