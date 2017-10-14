@@ -1,8 +1,7 @@
 > "Nothing is as important as passion. No matter what you want to do with your life, be passionate." - Jon Bon Jovi
 
 ### [About Me](https://ycku.csie.org)
-- 古永忠 (Yung-Chung Ku)
-- 斜槓青年: 沒有多重專長，只擁有多樣的熱情。
+- 古永忠 (Yung-Chung Ku) - 熱情推銷員
 
 ![Nobody](https://img.shields.io/badge/Nobody-台灣PostgreSQL使用者社群-blue.svg)
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-國立臺灣大學-blue.svg)
