@@ -1,12 +1,12 @@
 ### Open Source - 沒有人是局外人
-#### (↓ About me) (→ Start)
+#### (→ Start)
 #### [點此預先提問](https://app2.sli.do/event/cdoxqbn8)
 
 +++?include=aboutme/PITCHME.md
 
 ---
 
-### 25,300,000 active repos in Github (2017)
+### [25,300,000 active repos in Github (2017)](https://octoverse.github.com/)
 
 ---
 
