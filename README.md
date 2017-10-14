@@ -1,6 +1,6 @@
 > "Nothing is as important as passion. No matter what you want to do with your life, be passionate." - Jon Bon Jovi
 
-### [About Me](https://ycku.csie.org)
+### [About Me](http://ycku.csie.org)
 - 古永忠 (Yung-Chung Ku) - 熱情自造者
 
 ![Nobody](https://img.shields.io/badge/Nobody-台灣PostgreSQL使用者社群-blue.svg)
