@@ -1,6 +1,5 @@
 ### Open Source - 沒有人是局外人
-#### (→ Start)
-#### [點此預先提問](https://app2.sli.do/event/cdoxqbn8)
+#### (↓ About me)(→ Start)
 
 +++
 
