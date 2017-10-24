@@ -1,4 +1,4 @@
-2017/10/24 台科大開源課程 (計概)
+## 2017/10/24 台科大開源課程 (計概)
 
 ---
 
@@ -14,6 +14,9 @@
 6. exercise your memory
 7. develop oral communication skills
 8. encourage good listening
+(↓ More......)
+
++++
 9. help you become invested in the problem
 10. encourage others to ask questions
 11. spark lively and productive discussions
