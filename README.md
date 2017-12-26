@@ -13,13 +13,17 @@
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
 ![NBA2K](https://img.shields.io/badge/Point%20Guard-NBA2K-red.svg)
 
-### [底片攝影與數位創新](https://goo.gl/Ubw87b) @亞東技術學院
+
+### [底片攝影與數位創新](https://goo.gl/Ubw87b)
+#### @亞東技術學院
 作為業餘的底片/暗房玩家，聊聊攝影的一些事。
 
-### [開源資料庫PostgreSQL](https://goo.gl/vFQxea) @自強基金會
+### [開源資料庫PostgreSQL](https://goo.gl/vFQxea)
+#### @自強基金會
 認識 PostgreSQL，也介紹現在資料庫的生態與問題。
 
-### [Open Source](https://gitpitch.com/ycku/pitches?p=opensource) @輔仁大學
+### [Open Source](https://gitpitch.com/ycku/pitches?p=opensource) 
+#### @輔仁大學
 「沒有人是局外人」是這個簡報的副標，推廣開源協作理念，不只是軟體研發，也是公民社會的實現。
 
 ### [與 Github 同在](https://gitpitch.com/ycku/pitches?p=stay_with_github)
